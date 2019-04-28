@@ -1,2 +1,2 @@
 # digital
-a background project for real-time data transfer
+a background project which mainly provides real-time API
